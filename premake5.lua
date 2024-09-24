@@ -17,6 +17,7 @@ project "ImGui"
         "imgui_textedit.h",
         "imgui_truetype.h",
         "imgui_demo.cpp",
+        "imgui_tables.cpp"
 
     }
 
